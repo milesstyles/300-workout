@@ -224,6 +224,8 @@ function setupSettings() {
     // Save settings
     saveSettingsBtn.addEventListener('click', async () => {
         const apiKey = apiKeyInput.value.trim();
+        const binId = binIdInput.value.trim();
+
         if (!apiKey) {
             syncStatus.textContent = 'Please enter an API key';
             syncStatus.className = 'sync-status error';
@@ -231,10 +233,25 @@ function setupSettings() {
         }
 
         JSONBIN_CONFIG.apiKey = apiKey;
+        JSONBIN_CONFIG.binId = binId; // Allow manual entry
         saveConfig();
-        syncStatus.textContent = 'Saving...';
+        syncStatus.textContent = 'Connecting...';
         syncStatus.className = 'sync-status';
 
+        // If bin ID provided, load data from it first
+        if (binId) {
+            const loaded = await loadFromServer();
+            if (loaded) {
+                renderAllMonths();
+                updateProgress();
+                renderSchedule();
+                syncStatus.textContent = 'Loaded data from cloud!';
+                syncStatus.className = 'sync-status success';
+                return;
+            }
+        }
+
+        // Otherwise save current data
         await saveToServer();
 
         binIdInput.value = JSONBIN_CONFIG.binId || '';
