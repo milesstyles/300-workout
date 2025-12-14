@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>300 Workout Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>300 Workout Tracker</h1>
+            <div class="schedule-info">
+                <span id="current-date"></span>
+                <span id="next-workout"></span>
+                <span id="online-status" class="online-status online">Online</span>
+            </div>
+        </header>
+
+        <nav class="tabs">
+            <button class="tab active" data-tab="schedule">Schedule</button>
+            <button class="tab" data-tab="month1">Month 1</button>
+            <button class="tab" data-tab="month2">Month 2</button>
+            <button class="tab" data-tab="month3">Month 3</button>
+            <button class="tab" data-tab="progress">Progress</button>
+            <button class="tab" data-tab="settings">Settings</button>
+        </nav>
+
+        <main>
+            <section id="schedule" class="tab-content active">
+                <div class="schedule-header">
+                    <h2>Workout Schedule</h2>
+                    <p class="schedule-note">Fridays are rest days - no workouts scheduled</p>
+                    <div class="schedule-controls">
+                        <label>
+                            Start Date:
+                            <input type="date" id="start-date">
+                        </label>
+                        <button id="reset-schedule" class="btn btn-secondary">Reset Schedule</button>
+                    </div>
+                </div>
+                <div id="schedule-calendar" class="schedule-calendar"></div>
+            </section>
+
+            <section id="month1" class="tab-content">
+                <h2>Month 1 - Days 1-28</h2>
+                <div id="month1-workouts" class="workouts-grid"></div>
+            </section>
+
+            <section id="month2" class="tab-content">
+                <h2>Month 2 - Days 1-30</h2>
+                <div id="month2-workouts" class="workouts-grid"></div>
+            </section>
+
+            <section id="month3" class="tab-content">
+                <h2>Month 3 - Days 1-28</h2>
+                <div id="month3-workouts" class="workouts-grid"></div>
+            </section>
+
+            <section id="progress" class="tab-content">
+                <h2>Your Progress</h2>
+                <div class="progress-stats">
+                    <div class="stat-card">
+                        <h3>Total Workouts</h3>
+                        <span id="total-workouts">0</span>
+                        <span class="stat-label">of 86</span>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Month 1</h3>
+                        <span id="month1-progress">0</span>
+                        <span class="stat-label">of 28</span>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Month 2</h3>
+                        <span id="month2-progress">0</span>
+                        <span class="stat-label">of 30</span>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Month 3</h3>
+                        <span id="month3-progress">0</span>
+                        <span class="stat-label">of 28</span>
+                    </div>
+                </div>
+                <div class="progress-bar-container">
+                    <div class="progress-bar" id="overall-progress"></div>
+                </div>
+                <button id="clear-progress" class="btn btn-danger">Clear All Progress</button>
+            </section>
+
+            <section id="settings" class="tab-content">
+                <h2>Settings</h2>
+                <div class="settings-section">
+                    <h3>Cloud Sync (JSONBin.io)</h3>
+                    <p class="settings-note">Enable cloud sync to access your data from any device. Get a free API key from <a href="https://jsonbin.io" target="_blank">jsonbin.io</a></p>
+
+                    <div class="settings-form">
+                        <label>
+                            API Key:
+                            <input type="password" id="api-key-input" placeholder="Enter your JSONBin API key">
+                        </label>
+                        <label>
+                            Bin ID (auto-generated):
+                            <input type="text" id="bin-id-input" placeholder="Will be created automatically" readonly>
+                        </label>
+                        <div class="settings-buttons">
+                            <button id="save-settings" class="btn btn-primary">Save & Sync</button>
+                            <button id="clear-settings" class="btn btn-secondary">Clear Settings</button>
+                        </div>
+                    </div>
+
+                    <div class="sync-status" id="sync-status"></div>
+                </div>
+
+                <div class="settings-section">
+                    <h3>Data Management</h3>
+                    <div class="settings-buttons">
+                        <button id="export-data" class="btn btn-secondary">Export Data</button>
+                        <button id="import-data" class="btn btn-secondary">Import Data</button>
+                        <input type="file" id="import-file" accept=".json" style="display:none">
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Workout Detail Modal -->
+        <div id="workout-modal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <div class="modal-header">
+                    <h2 id="modal-title"></h2>
+                    <div id="modal-workout-type" class="workout-type-badge"></div>
+                </div>
+                <div id="modal-workout-content"></div>
+                <div class="modal-footer">
+                    <div class="complete-workout">
+                        <input type="checkbox" id="modal-complete">
+                        <label for="modal-complete">Mark Workout Complete</label>
+                    </div>
+                    <div class="workout-stats" id="modal-stats"></div>
+                    <div id="save-indicator" class="save-indicator">Saved!</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="workouts.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
