@@ -259,6 +259,64 @@ function setupSettings() {
         syncStatus.className = JSONBIN_CONFIG.binId ? 'sync-status success' : 'sync-status error';
     });
 
+    // Load from cloud button
+    const loadFromCloudBtn = document.getElementById('load-from-cloud');
+    loadFromCloudBtn.addEventListener('click', async () => {
+        const apiKey = apiKeyInput.value.trim();
+        const binId = binIdInput.value.trim();
+
+        if (!apiKey || !binId) {
+            syncStatus.textContent = 'Please enter both API key and Bin ID';
+            syncStatus.className = 'sync-status error';
+            return;
+        }
+
+        JSONBIN_CONFIG.apiKey = apiKey;
+        JSONBIN_CONFIG.binId = binId;
+        saveConfig();
+
+        syncStatus.textContent = 'Loading from cloud...';
+        syncStatus.className = 'sync-status';
+
+        try {
+            const response = await fetch(`https://api.jsonbin.io/v3/b/${binId}/latest`, {
+                headers: {
+                    'X-Access-Key': apiKey
+                }
+            });
+
+            if (response.ok) {
+                const result = await response.json();
+                const data = result.record;
+                console.log('Loaded from cloud:', data);
+
+                state.completedWorkouts = data.completedWorkouts || {};
+                state.exerciseProgress = data.exerciseProgress || {};
+                state.exerciseLogs = data.exerciseLogs || {};
+                state.skippedDates = data.skippedDates || [];
+                state.startDate = data.startDate || null;
+
+                saveToLocalStorage();
+                renderAllMonths();
+                updateProgress();
+                renderSchedule();
+                updateOnlineStatus(true);
+
+                syncStatus.textContent = 'Loaded from cloud successfully!';
+                syncStatus.className = 'sync-status success';
+            } else {
+                const err = await response.text();
+                console.error('Load failed:', err);
+                syncStatus.textContent = 'Failed to load: ' + response.status;
+                syncStatus.className = 'sync-status error';
+            }
+        } catch (e) {
+            console.error('Load error:', e);
+            syncStatus.textContent = 'Error: ' + e.message;
+            syncStatus.className = 'sync-status error';
+        }
+    });
+
     // Clear settings
     clearSettingsBtn.addEventListener('click', () => {
         if (confirm('Clear cloud sync settings? Your local data will be kept.')) {
