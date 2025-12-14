@@ -1,0 +1,1301 @@
+{
+  "month1": {
+    "name": "Month 1",
+    "days": [
+      {
+        "day": 1,
+        "content": [
+          "Workout:",
+          "10 minute Row @ Easy Pace",
+          "Then:",
+          "2x5 Wall Squat",
+          "2x10 Squat",
+          "2x5 Goblet Squat @ 25#",
+          "2x20m Lunge",
+          "Then:",
+          "Work up to Front Squat 1RM",
+          "Then:",
+          "5x2 Front Squat @ 80% 1RM",
+          "Rest 2-3 minutes between sets",
+          "Then:",
+          "8x (20sec Work/10sec Rest) Squat.",
+          "Aim for 10-15 reps in each 20sec Work period.",
+          "Then:",
+          "8x (20sec Work/10sec Rest) Push Press @ 2 x 10-20# DB",
+          "Aim for 15 reps in each 20sec Work period.",
+          "Then:",
+          "300sec FLR"
+        ]
+      },
+      {
+        "day": 2,
+        "content": [
+          "Workout:",
+          "60 minute Run, Bike, Swim, or Row @ Easy Pace"
+        ]
+      },
+      {
+        "day": 3,
+        "content": [
+          "Workout:",
+          "10 minute Row @ Easy Pace",
+          "Then:",
+          "Six-Way BB Complex:",
+          "6x Deadlift + 6x Bent-over Row (back parallel to floor) + 6x Hang Clean +",
+          "6x Front Squat +\u00a06x Push Press +\u00a06x Back Squat +\u00a06x Push-up",
+          "Do these all in a row without letting go of the bar.",
+          "Rest 1-2 minutes.",
+          "Do 3-4 sets. Increase weight on bar with each series, i.e. 75#-85#-95#-105#",
+          "Then:",
+          "Work up to OHS 1RM",
+          "Then:",
+          "OHS @ 35% + Ring Push-up,",
+          "30-20-10 reps of each",
+          "Then:",
+          "Cool Down"
+        ]
+      },
+      {
+        "day": 4,
+        "content": [
+          "Workout:",
+          "60 minute Run, Bike, Swim, or Row @ Easy Pace"
+        ]
+      },
+      {
+        "day": 5,
+        "content": [
+          "Workout:",
+          "10 minute Row @ Easy Pace",
+          "Then:",
+          "2x5 Wall Squat",
+          "2x10 Squat",
+          "2x5 Goblet Squat @ 25#",
+          "Then:",
+          "Work up to Deadlift 1RM",
+          "Then:",
+          "\u201cJonesCrawl\u201d:",
+          "10x DL @ 115% BW +",
+          "25x Box Jump @ 24\u201d Box",
+          "Three Rounds",
+          "Then:",
+          "Cool Down with 10 minute Row"
+        ]
+      },
+      {
+        "day": 6,
+        "content": [
+          "Rest",
+          "or",
+          "60 minute Run, Bike, Swim, or Row @ Easy Pace"
+        ]
+      },
+      {
+        "day": 7,
+        "content": [
+          "Rest",
+          "or",
+          "60 minute Run, Bike, Swim, or Row @ Easy Pace"
+        ]
+      },
+      {
+        "day": 8,
+        "content": [
+          "Workout:",
+          "10-20min Row @ Easy Pace",
+          "Then:",
+          "2x5 Wall Squat",
+          "2x10 Squat",
+          "2x5 Jump Squat",
+          "2x5 Tuck Jump",
+          "Then:",
+          "Work up to Power Clean 1RM",
+          "Then:",
+          "8x3 Power Clean @ 70% 1RM",
+          "Then:",
+          "500m Row for Time"
+        ]
+      },
+      {
+        "day": 9,
+        "content": [
+          "Workout:",
+          "60 minute Run, Bike, Swim, or Row @ Easy Pace"
+        ]
+      },
+      {
+        "day": 10,
+        "content": [
+          "Workout:",
+          "10-20 minute Row @ Easy Pace",
+          "Then:",
+          "3x (1-6) Pull-up Ladder",
+          "Then:",
+          "Work up to Bench Press 1RM",
+          "Then:",
+          "Bench Press @ BW + Burpee:",
+          "10/1, 9/2, 8/3, 7/4, 6/5,\u00a05/6, 4/7, 3/8, 2/9, 1/10 reps of each",
+          "Then:",
+          "10-20 minute Row @ Easy Pace"
+        ]
+      },
+      {
+        "day": 11,
+        "content": [
+          "Workout:",
+          "60 minute Run, Bike, Swim, or Row @ Easy Pace"
+        ]
+      },
+      {
+        "day": 12,
+        "content": [
+          "Workout:",
+          "2x5 Wall Squat",
+          "2x10 Squat",
+          "2x5 Goblet Squat @ 25#",
+          "Then:",
+          "Work up to Heavy Back Squat",
+          "Then:",
+          "\u201cThose Burpees Suck\u201d:",
+          "10x Pull-up +",
+          "20x KB Swing @ 53# +",
+          "30x Box Jump @ 24\u201d +",
+          "40x Push-up +",
+          "50x Sit-up +",
+          "60x Burpee +",
+          "10x Pull-up",
+          "Then:",
+          "Cool Down"
+        ]
+      },
+      {
+        "day": 13,
+        "content": [
+          "Rest",
+          "or",
+          "60 minute Run, Bike, Swim, or Row @ Easy Pace"
+        ]
+      },
+      {
+        "day": 14,
+        "content": [
+          "Rest",
+          "or",
+          "60 minute Run, Bike, Swim, or Row @ Easy Pace"
+        ]
+      },
+      {
+        "day": 15,
+        "content": [
+          "Workout:",
+          "Dumbbell Complex (Standard):",
+          "6x Hi-Pull +\u00a06x Bent-over Row +\u00a06x Hang Clean +",
+          "6x Front Squat Push Press +\u00a06x OHS & SOTS Press Combo +\u00a06x Push-up & One-arm Row",
+          "Three Sets, Completed with 20-25# Dumbbells",
+          "Then:",
+          "10x Upright Row @ 75# +",
+          "10x DB Front Raise @ 2x 20-30# (5 each, alternate arms)",
+          "5 sets, rest 1-2 min between sets",
+          "Then:",
+          "Seated Press (strict, partial, i.e. no need to past point of upper arm parallel to floor)",
+          "5x5 @ 2 x 50-60# DB",
+          "Rest as needed between sets",
+          "Then",
+          "Strip sets to failure:",
+          "Set One:",
+          "60# + 40# + 30#",
+          "Set Two:",
+          "40# + 30# + 20#",
+          "Then:",
+          "Snatch Grip DL",
+          "3x10 @ 135#",
+          "Then:",
+          "100x KTE or Feet-To-Hands"
+        ]
+      },
+      {
+        "day": 16,
+        "content": [
+          "Workout:",
+          "10 minute Row @ Easy pace",
+          "Then:",
+          "10x KB Swing +",
+          "10x Goblet Squat",
+          "One set each @ 25#, 35#, 44#, 53#, 70#",
+          "Then:",
+          "10x10 Back Squat @ 40-50% 1RM",
+          "Rest 2 minutes between sets",
+          "Then:",
+          "50x Perfect Pull-up (strict, slow, break up sets as needed)",
+          "Then:",
+          "Plank Pull +",
+          "Ring Support",
+          "Each to failure, three sets",
+          "Result might look like 15x + 1:30 or something similar",
+          "Then:",
+          "Standing Finger Curl (strip sets) to failure @ 115#, 95#, 85#, 45#",
+          "2-3 sets, 2 min Rest between each",
+          "Looks like Max Reps @ 115# + Max Reps @ 95# + Max Reps @ 85# + Max Reps @ 45# + Rest + Repeat entire sequence"
+        ]
+      },
+      {
+        "day": 17,
+        "content": [
+          "Workout:",
+          "10-20 minute Row @ Easy Pace",
+          "Then:",
+          "Three blocks of:",
+          "6 min of (30sec work/30sec active rest) Row @ >150m pace per interval (i.e. 1:40/500m)",
+          "Rest 4 min between blocks",
+          "Then:",
+          "4x (30sec Work/30sec Rest) Frog Hop",
+          "Rest 2:00 minutes",
+          "4x (30sec Work/30sec Rest) Frog Hop",
+          "Then:",
+          "Cool Down"
+        ]
+      },
+      {
+        "day": 18,
+        "content": [
+          "Workout:",
+          "2x5 Wall Squat",
+          "2x10 Squat",
+          "2x5 Goblet Squat",
+          "2x20m Lunge",
+          "Then:",
+          "5x5 SL Squat @ 20\u201d Box",
+          "Then:",
+          "4x (30sec Work/30sec Rest) Burpee. Aim for 10 reps each 30 second work Interval",
+          "Then:",
+          "KB Mountain @ 35#",
+          "5-10-15-20-15-10-5",
+          "1st step looks like: 5x KB Swing + 5x Goblet Squat",
+          "2nd step looks like: 10x KB Swing + 10x Goblet Squat",
+          "Goal is to make it through the entire mountain without setting down KB",
+          "Then:",
+          "Cool Down"
+        ]
+      },
+      {
+        "day": 19,
+        "content": [
+          "Workout:",
+          "2x (1-6) Pull-up Ladder",
+          "2x (1-10) Push-up Ladder",
+          "Then:",
+          "Floor Press",
+          "10x @ 95#",
+          "10x @ 135#",
+          "5 @ 155#",
+          "Then:",
+          "Bench Press:",
+          "10 reps @ 40% 1RM",
+          "9 reps @ 50% 1RM",
+          "8 reps @ 55% 1RM",
+          "7 reps @ 60% 1RM",
+          "6 reps @ 65% 1RM",
+          "5 reps @ 70% 1RM",
+          "4 reps @ 75% 1RM",
+          "3 reps @ 80% 1RM",
+          "2 reps @ 85% 1RM",
+          "1 rep @ 90% 1RM",
+          "Rest 1-2 minutes between each rung",
+          "Then:",
+          "3x (1-6) Pull-up Ladder",
+          "Then:",
+          "300sec FLR"
+        ]
+      },
+      {
+        "day": 20,
+        "content": [
+          "Rest",
+          "or",
+          "60 minute Run, Bike, Swim, or Row @ Easy Pace"
+        ]
+      },
+      {
+        "day": 21,
+        "content": [
+          "Rest",
+          "or",
+          "60 minute Run, Bike, Swim, or Row @ Easy Pace"
+        ]
+      },
+      {
+        "day": 22,
+        "content": [
+          "Workout:",
+          "3x20 Squat",
+          "3x10 Jump Squat",
+          "2x10 Burpee/Broad Jump",
+          "Then:",
+          "3x (1-6) Pull-up Ladder",
+          "Then:",
+          "Hang Clean + Front Squat + Push Press:",
+          "One Triplet every 30 seconds for 10 minutes i.e. 20 total triplets",
+          "@ 95-135#",
+          "Then:",
+          "5x Deadlift @ 225# +",
+          "10x Split Jump",
+          "5 rounds",
+          "Then:",
+          "Ring Push-up supersets",
+          "5x @ feet on 30\" box +",
+          "5x @ feet on 20\" box +",
+          "10x normal Push-up",
+          "3 sets",
+          "Then:",
+          "100x KTE or Feet-To-Hands",
+          "Rest as needed on way to 100x reps"
+        ]
+      },
+      {
+        "day": 23,
+        "content": [
+          "Workout:",
+          "10 minute Row @ Easy Pace",
+          "Then:",
+          "2000m Row for Time",
+          "Rest amount of time it took to complete 2000m",
+          "1000m Row for Time",
+          "Rest amount of time it took to complete 1000m",
+          "500m Row For Time",
+          "Then:",
+          "Cool Down"
+        ]
+      },
+      {
+        "day": 24,
+        "content": [
+          "Workout:",
+          "3x5 Wall Squat",
+          "3x10 Squat",
+          "3x5 Jump Squat",
+          "3x5 Tuck Jump",
+          "Then:",
+          "\u201cMeritorious\u201d:",
+          "30x HSPU +",
+          "40x Pull-up +",
+          "50x KB Swing @ 53# +",
+          "60x Sit-up +",
+          "70x Burpee",
+          "Then:",
+          "Cool Down"
+        ]
+      },
+      {
+        "day": 25,
+        "content": [
+          "Workout:",
+          "Dumbbell Complex (Standard):",
+          "6x Hi-Pull +\u00a06x Bent-over Row +\u00a06x Hang Clean +",
+          "6x Front Squat Push Press +\u00a06x OHS & SOTS Press Combo +\u00a06x Push-up & One-arm Row",
+          "Three Sets, Completed with 20-25# Dumbbells",
+          "Then:",
+          "KB Clean & Press @ 2x 16-20kg KB:",
+          "4 reps every 30 sec for ten minutes",
+          "Then:",
+          "KB Swing @ 24kg:",
+          "10x reps every 30 sec for Ten Minutes",
+          "Then:",
+          "Burpee:",
+          "5 reps every 30 sec for Ten minutes",
+          "Then:",
+          "Cool Down"
+        ]
+      },
+      {
+        "day": 26,
+        "content": [
+          "Workout:",
+          "10 minute Row @ Easy Pace",
+          "Then:",
+          "Six-Way BB Complex:",
+          "6x Deadlift +\u00a06x Bent-over Row (back parallel to floor) +",
+          "6x Hang Clean +\u00a06x Front Squat +\u00a06x Push Press +",
+          "6x Back Squat +\u00a06x Push-up",
+          "Do these all in a row without letting go of the bar. Rest 1-2 minutes. Do 3-4 sets. Increase weight on bar with each series,",
+          "i.e.75#-85#-95#-105#",
+          "Then:",
+          "\"12 Minutes of Hell\"",
+          "5x DL @ 225# +",
+          "10x Push Press @ 75#",
+          "Max rounds in 12 minutes",
+          "Then:",
+          "5-10 minute Intermission",
+          "Then:",
+          "6x (30sec Work/30sec Rest) Row or SkiErg. Max Meters in each 30sec work period."
+        ]
+      },
+      {
+        "day": 27,
+        "content": [
+          "Rest",
+          "or",
+          "60 minute Run, Bike, Swim, or Row @ Easy Pace"
+        ]
+      },
+      {
+        "day": 28,
+        "content": [
+          "Rest",
+          "or",
+          "60 minute Run, Bike, Swim, or Row @ Easy Pace"
+        ]
+      }
+    ]
+  },
+  "month2": {
+    "name": "Month 2",
+    "days": [
+      {
+        "day": 1,
+        "content": [
+          "WORKOUT:",
+          "3X5 WALL SQUAT",
+          "3X20 SQUAT",
+          "3X10 JUMP SQUAT",
+          "3X20 SPLIT JUMP (10 EACH SIDE)",
+          "THEN:",
+          "10-1 PUSH-UP LADDER",
+          "THEN:",
+          "WORK UP TO HEAVY BACK SQUAT",
+          "THEN:",
+          "BACK SQUAT:",
+          "10X 5/3/2 @ 60% 1RM",
+          "COMPLETE 5 REPS, REST 20 SECONDS, COMPLETE 3 REPS, REST 20 SECONDS, COMPLETE 2 REPS. TEN SETS. REST 2 MINUTES BETWEEN EACH SET.",
+          "THEN:",
+          "10X UPRIGHT ROW @ 2 X 30-40# DBS + 20X FRONT RAISE (10 EACH SIDE) @ 2 X 15-20#",
+          "THREE SETS, REST 1-2 MIN BETWEEN SETS",
+          "THEN:",
+          "10X PUSH PRESS @ 2X 30-50# DBS WITH 3-SEC PAUSE IN LOCK-OUT POSITION",
+          "3-5 SETS"
+        ]
+      },
+      {
+        "day": 2,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY PACE",
+          "THEN:",
+          "4X (30SEC WORK/30SEC REST) ROW @ >150M PACE",
+          "THEN:",
+          "ROW 6X 500M @ ~ 15 SEC SLOWER THAN YOUR PR 500M PACE/3 MIN ACTIVE REST (~1:2 WORK:REST RATIO)",
+          "ATTEMPT TO KEEP ALL INTERVALS EQUAL TO OR FASTER THAN THE FIRST ONE",
+          "THEN:",
+          "10 MINUTE ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 3,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY PACE",
+          "THEN:",
+          "SIX-WAY BB COMPLEX:",
+          "6X DEADLIFT +",
+          "6X BENT-OVER ROW (BACK PARALLEL TO FLOOR) +",
+          "6X HANG CLEAN +",
+          "6X FRONT SQUAT +",
+          "6X PUSH PRESS +",
+          "6X BACK SQUAT +",
+          "6X PUSH-UP",
+          "DO THESE ALL IN A ROW WITHOUT LETTING GO OF THE BAR. REST 1-2 MINUTES. DO 3-4 SETS. INCREASE WEIGHT ON BAR WITH EACH SERIES,",
+          "I.E.75#-85#-95#-105#",
+          "THEN:",
+          "WORKOUT:",
+          "250M ROW + 10X DEADLIFT @ 125% OF BODYWEIGHT + 12X FRONT SQUAT PUSH PRESS @ 2X 25# DB",
+          "THREE ROUNDS",
+          "THEN:",
+          "300SEC FLR"
+        ]
+      },
+      {
+        "day": 4,
+        "content": [
+          "WORKOUT:",
+          "2X5 WALL SQUAT",
+          "THEN:",
+          "10X SQUAT +",
+          "5X PROPER PUSH-UP",
+          "FIVE ROUNDS",
+          "THEN:",
+          "4X5 MAN-MAKER",
+          "ONE SET EACH @ 2X15#, 2X20#, 2X25#, 2X30#",
+          "REST SOME BETWEEN SETS",
+          "THEN:",
+          "10X PUSH PRESS @ 75# +",
+          "100M ROW (SPRINT)",
+          "TEN ROUNDS",
+          "THEN:",
+          "10-1 GOBLET SQUAT LADDER @\u00a0 32KG + 30 SEC RING SUPPORT",
+          "LOOKS LIKE:",
+          "10X GOBLET SQUAT + 30SEC RING SUPPORT + 9X GOBLET SQUAT + 30SEC RING SUPPORT + ETC",
+          "THEN:",
+          "300X KB SWING @ 24KG",
+          "FOR TIME",
+          "THEN:",
+          "COOL DOWN"
+        ]
+      },
+      {
+        "day": 5,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY PACE",
+          "THEN:",
+          "4X (20SEC WORK/10SEC REST) ROW @ >100M PACE PER INTERVAL",
+          "TWO SETS, REST 4 MINUTES BETWEEN SETS",
+          "THEN:",
+          "5000M ROW FOR TIME",
+          "THEN:",
+          "10 MINUTE ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 6,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 7,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 8,
+        "content": [
+          "WORKOUT:",
+          "10-20MIN ROW @ EASY PACE",
+          "THEN:",
+          "2X5 WALL SQUAT",
+          "2X10 SQUAT",
+          "2X5 JUMP SQUAT",
+          "2X5 TUCK JUMP",
+          "THEN:",
+          "WORK UP TO HEAVY DEADLIFT",
+          "THEN:",
+          "5X3 DEADLIFT @ 80% 1RM",
+          "REST 2-3 MINUTES BETWEEN EACH SET",
+          "THEN:",
+          "10 MINUTE ROW @ EASY PACE",
+          "THEN:",
+          "1000M ROW FOR TIME",
+          "THEN:",
+          "300SEC FLR"
+        ]
+      },
+      {
+        "day": 9,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY PACE",
+          "THEN:",
+          "10M LUNGE + 10X JUMP SQUAT",
+          "THREE SETS",
+          "THEN:",
+          "3X10 GOBLET SQUAT",
+          "ONE SET EACH @ 12KG, 16KG, 20KG",
+          "THEN:",
+          "FSPP BREATHING LADDER (CHOOSE WEIGHT WISELY)",
+          "2001-01-15 00:00:00",
+          "(FOR FULL BREATHING LADDER INSTRUCTIONS READ ARTICLE IN KNOWLEDGE SECTION)",
+          "DO NOT SET WEIGHT DOWN DURING LADDER",
+          "PENALTY FOR SETTING WEIGHT DOWN IS 10X BURPEES PER INFRACTION.",
+          "THEN:",
+          "ROW/ RIDE/ SKI 10 MINUTES",
+          "10/50 + 20/40 + 30/30 + 40/20 + 50/10 AND REPEAT",
+          "(FIRST NUMBER REFERS TO HARD, SECOND REFERS TO EASY)",
+          "THEN:",
+          "COOL DOWN"
+        ]
+      },
+      {
+        "day": 10,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY PACE",
+          "THEN:",
+          "15X (30SEC ROW/90SEC ACTIVE REST) @ >150M PACE PER INTERVAL",
+          "PLAYER MUST GET ONE MORE METER EACH ROUND I.E. 150M, 151M, 152M, 153M, ETC",
+          "THEN:",
+          "COOL DOWN"
+        ]
+      },
+      {
+        "day": 11,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY PACE",
+          "THEN:",
+          "10X DECK SQUAT @ 12KG + 100M SKIERG (FAST)",
+          "10X DECK SQUAT @ 12KG + 200M SKIERG (FAST)",
+          "10X DECK SQUAT @ 12KG + 300M SKIERG (FAST)",
+          "10X DECK SQUAT @ 12KG + 400M SKIERG (FAST)",
+          "10X DECK SQUAT @ 12KG + 500M SKIERG (FAST)",
+          "THEN:",
+          "REST A BIT",
+          "THEN:",
+          "10X RING PUSH-UP (FEET SAME HEIGHT AS HANDS) @ + 500M ROW (FAST)",
+          "10X RING PUSH-UP (FEET SAME HEIGHT AS HANDS) @ + 400M ROW (FAST)",
+          "10X RING PUSH-UP (FEET SAME HEIGHT AS HANDS) @ + 300M ROW (FAST)",
+          "10X RING PUSH-UP (FEET SAME HEIGHT AS HANDS) @ + 200M ROW (FAST)",
+          "10X RING PUSH-UP (FEET SAME HEIGHT AS HANDS) @ + 100M ROW (FAST)",
+          "THEN:",
+          "COOL DOWN"
+        ]
+      },
+      {
+        "day": 12,
+        "content": [
+          "WORKOUT:",
+          "2X5 WALL SQUAT",
+          "2X10 SQUAT",
+          "2X5 GOBLET SQUAT @ 25#",
+          "THEN:",
+          "WORK UP TO HEAVY BACK SQUAT",
+          "THEN:",
+          "5X2 BACK SQUAT @ 80% 1RM",
+          "REST 3 MINUTES BETWEEN SETS",
+          "THEN:",
+          "ROW 500M + 50X RING DIP + 50X DB PUSH PRESS + 50X STEP-UP @ 18-20\u201d BOX + 50X PUSH-UP + 50X SIT-UP + ROW 500M",
+          "THEN:",
+          "COOL DOWN WITH 300SEC FLR"
+        ]
+      },
+      {
+        "day": 13,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 14,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 15,
+        "content": [
+          "WORKOUT:",
+          "3X (1-6) PULL-UP LADDER",
+          "3X (1-6) PUSH-UP LADDER",
+          "THEN:",
+          "WORK UP TO HEAVY BENCH PRESS",
+          "THEN:",
+          "10-1 BENCH PRESS LADDER @ 50% 1RM\u00a0 + 30SEC ROW @ >150M PACE",
+          "GOAL IS TO KEEP INTENSITY ROW HIGH AND FINISH AS QUICKLY AS POSSIBLE.",
+          "LOOKS LIKE:",
+          "10X BENCH PRESS @ 50% 1RM + 30SEC ROW @ >150M PACE + 9X BENCH PRESS @ 50% 1RM + 30SEC ROW @ >150M PACE + ETC",
+          "THEN:",
+          "50X DIP"
+        ]
+      },
+      {
+        "day": 16,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY PACE",
+          "THEN:",
+          "3X5 WALL SQUAT",
+          "3X20 SQUAT",
+          "3X10 GOBLET SQUAT (ONE SET EACH @ 20KG, 24KG, 32KG)",
+          "WORK UP TO HEAVY FRONT SQUAT",
+          "THEN:",
+          "5X FRONT SQUAT @ 80-85% 1RM +",
+          "30 SECONDS ALL-OUT ON AIRDYNE/ROW/SKI",
+          "FIVE SETS, REST 3-5 MINUTES BETWEEN SETS",
+          "THEN:",
+          "300SEC FLR"
+        ]
+      },
+      {
+        "day": 17,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY PACE",
+          "THEN:",
+          "60 MINUTE ROW @ >15,400M PACE",
+          "THEN:",
+          "COOL DOWN"
+        ]
+      },
+      {
+        "day": 18,
+        "content": [
+          "WORKOUT:",
+          "ROW 20 MINUTES:",
+          "5 MIN @ EASY PACE + 5 MIN (10SEC HARD/50SEC EASY) + 5 MIN (20SEC EASY/40SEC EASY) + 5 MIN (30SEC HARD/30SEC EASY)",
+          "THEN:",
+          "5X10 PUSH-UP",
+          "THEN:",
+          "PUSH PRESS. THREE SETS:",
+          "1X10 @ 20# WITH 3-5 SECOND PAUSE AT TOP AFTER EACH REP",
+          "1X10 @ 25# WITH 3-5 SECOND PAUSE AT TOP AFTER EACH REP",
+          "1X10 @ 30# WITH 3-5 SECOND PAUSE AT TOP AFTER EACH REP",
+          "REST 1-2 MIN BETWEEN SETS",
+          "THEN:",
+          "20X FLOOR PRESS @ 135# +",
+          "10X PLANK PULL",
+          "4-5 SETS, REST 1-2 MIN BETWEEN SETS",
+          "THEN:",
+          "100X KB TWO-HAND CLEAN @ 2X 12KG WITHOUT SETTING KBS DOWN",
+          "PENALTY FOR SETTING THEM DOWN IS 20X GOBLET SQUAT @ 32KG PER INFRACTION (PAID IMMEDIATELY)"
+        ]
+      },
+      {
+        "day": 19,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY PACE",
+          "THEN:",
+          "KB SWING LADDER",
+          "10X EACH @ 12KG, 16KG, 20KG, 24KG 32KG",
+          "THEN:",
+          "GOBLET SQUAT LADDER",
+          "10X EACH @ 12KG, 16KG, 20KG, 24KG 32KG",
+          "THEN:",
+          "100X BACK SQUAT @ 135#",
+          "KEEP BAR ON BACK.",
+          "EVERY TIME BAR IS SET DOWN OR RACKED PLAYER MUST DO 1 MINUTE ALL-OUT ON AIRDYNE/ ROWING MACHINE/ SKI ERG",
+          "THEN:",
+          "KB SWING LADDER",
+          "10X EACH @ 12KG, 16KG, 20KG, 24KG 32KG",
+          "THEN:",
+          "ONE-HANDED KB PUSH-PRESS LADDER",
+          "20X EACH @ 12KG, 16KG, 20KG, 24KG (10X EACH ARM)",
+          "THEN:",
+          "COOL DOWN"
+        ]
+      },
+      {
+        "day": 20,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 21,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 22,
+        "content": [
+          "WORKOUT:",
+          "2X5 WALL SQUAT",
+          "2X10 SQUAT",
+          "2X5 GOBLET SQUAT",
+          "2X20M WALKING LUNGE",
+          "2X20M OH WALKING LUNGE @ 10-15# DB",
+          "2X10 SHOULDER DISLOCATE",
+          "THEN:",
+          "2X (30SEC WORK/30SEC \u201cREST\u201d) PUSH PRESS @ 2 X 10# DB. \u201cREST\u201d IS IN STRICT OH HOLD",
+          "TWO SETS, REST 2 MINUTES BETWEEN SETS",
+          "THEN:",
+          "5X10 OHS @ 30% 1RM",
+          "THEN:",
+          "300SEC FLR"
+        ]
+      },
+      {
+        "day": 23,
+        "content": [
+          "WORKOUT:",
+          "60-90 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PAC"
+        ]
+      },
+      {
+        "day": 24,
+        "content": [
+          "WORKOUT:",
+          "2X5 WALL SQUAT",
+          "2X10 SQUAT",
+          "2X5 GOBLET SQUAT",
+          "2X20M LUNGE",
+          "3X10 OHS @ 30% 1RM",
+          "THEN:",
+          "5X5 SL SQUAT @ 20\u201d BOX",
+          "THEN:",
+          "3X10 STRAIGHT LEG DL @ 65-95#",
+          "5X4 SLDL @ 65-95#",
+          "THEN:",
+          "6X TGU @ 10-20# DB +",
+          "60SEC FLR",
+          "FIVE ROUNDS"
+        ]
+      },
+      {
+        "day": 25,
+        "content": [
+          "WORKOUT:",
+          "60-90 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 26,
+        "content": []
+      },
+      {
+        "day": 27,
+        "content": [
+          "WORKOUT:",
+          "2X5 WALL SQUAT",
+          "2X10 SQUAT",
+          "2X5 GOBLET SQUAT",
+          "2X20M LUNGE",
+          "3X10 OHS @ 30% 1RM",
+          "THEN:",
+          "2X (30SEC WORK/30SEC \u201cREST\u201d) SQUAT. \u201cREST\u201d IS IN PARALLEL POSITION.",
+          "TWO SETS, REST 2MIN BETWEEN EACH",
+          "THEN:",
+          "5X5 SL SQUAT @ 20\u201d BOX",
+          "THEN:",
+          "3X10 STRAIGHT LEG DL @ 65-95#",
+          "THEN:",
+          "2X20 DL @ 30% 1RM",
+          "2X20 DL @ 30% 1RM OFF OF 4\u201d BOX"
+        ]
+      },
+      {
+        "day": 28,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 29,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 30,
+        "content": []
+      }
+    ]
+  },
+  "month3": {
+    "name": "Month 3",
+    "days": [
+      {
+        "day": 1,
+        "content": [
+          "WORKOUT:",
+          "3X10 SHOULDER DISLOCATE",
+          "THEN:",
+          "3X (1-5) PUSH-UP LADDER",
+          "3X (1-5) PULL-UP",
+          "THEN:",
+          "BENCH PRESS @ BODYWEIGHT + BURPEE/PULL-UP",
+          "10/1, 9/2, 8/3, 7/4, 6/5, 5/6, 4/7, 3/8, 2/9, 1/10",
+          "THEN:",
+          "2000M ROW FOR TIME",
+          "THEN:",
+          "COOL DOWN"
+        ]
+      },
+      {
+        "day": 2,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY PACE",
+          "THEN:",
+          "60 MINUTE ROW @ >15,400M PACE",
+          "THEN:",
+          "COOL DOWN",
+          "*IF YOU DO NOT HAVE A ROWER YOU COULD USE ANOTHER CARDIOVASCULAR TOOL OR YOU COULD RUN. JUST MAKE IT HARD."
+        ]
+      },
+      {
+        "day": 3,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY PACE",
+          "THEN:",
+          "SIX-WAY BB COMPLEX:",
+          "6X DEADLIFT +\u00a06X BENT-OVER ROW (BACK PARALLEL TO FLOOR) +\u00a06X HANG CLEAN +",
+          "6X FRONT SQUAT +\u00a06X PUSH PRESS +\u00a06X BACK SQUAT +\u00a06X PUSH-UP",
+          "DO THESE ALL IN A ROW WITHOUT LETTING GO OF THE BAR.",
+          "REST 1-2 MINUTES. DO 3-4 SETS. INCREASE WEIGHT ON BAR WITH EACH SERIES, I.E. 75#-85#-95#-105#",
+          "THEN:",
+          "100X BACK SQUAT @ 185#",
+          "REST AS NEEDED ON WAY TO 185#. EACH TIME BARBELL IS RACKED PLAYER MUST IMMEDIATELY DO 20X BURPEE/PULL-UPS.",
+          "THEN:",
+          "20 MINUTE ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 4,
+        "content": [
+          "WORKOUT:",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 5,
+        "content": [
+          "WORKOUT:",
+          "2X5 WALL SQUAT",
+          "2X10 SQUAT",
+          "2X5 GOBLET SQUAT",
+          "THEN:",
+          "10X CLEAN HI-PULL @ 70% 1RM + 2:00 MIN ROW @ >550M PACE +",
+          "2:00 MIN REST",
+          "THREE ROUNDS",
+          "5MIN INTERMISSION (INCLUDING 3RD-2MIN REST PERIOD ABOVE)",
+          "THEN:",
+          "10X FRONT SQUAT @ 60% 1RM + 2:00 MIN BURPEE/BROAD JUMP",
+          "2:00 MIN REST",
+          "THREE ROUNDS",
+          "5MIN INTERMISSION (INCLUDING 2MIN REST ABOVE)",
+          "THEN:",
+          "5X (1-6) PULL-UP LADDER"
+        ]
+      },
+      {
+        "day": 6,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 7,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 8,
+        "content": [
+          "WORKOUT:",
+          "10-20MIN ROW @ EASY PACE",
+          "THEN:",
+          "2X5 WALL SQUAT",
+          "2X10 SQUAT",
+          "2X5 JUMP SQUAT",
+          "2X5 TUCK JUMP",
+          "THEN:",
+          "WORK UP TO HEAVY CLEAN",
+          "THEN:",
+          "8X2 POWER CLEAN OR SQUAT CLEAN @ 80% 1RM",
+          "REST 2 MINUTES BETWEEN SETS",
+          "THEN:",
+          "15X (20SEC WORK/10SEC\u00a0REST) FSPP @ 75-95#",
+          "CANNOT SET BAR DOWN FOR\u00a0ENTIRE DURATION OF\u00a0WORKOUT",
+          "THEN:",
+          "COOL DOWN"
+        ]
+      },
+      {
+        "day": 9,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY PACE",
+          "THEN:",
+          "6X (30SEC WORK/30SEC ACTIVE REST) ROW @ >150M PACE. THREE ROUNDS, REST 4 MINUTES BLOCKS",
+          "THEN:",
+          "4X (30SEC WORK/30SEC REST0 FROG HOP",
+          "TWO BLOCKS, REST 2 MINUTES BETWEEN BLOCKS",
+          "THEN:",
+          "10 MINUTE ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 10,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY\u00a0PACE",
+          "THEN:",
+          "2X5 WALL SQUAT",
+          "2X10 SQUAT",
+          "2X5 GOBLET SQUAT",
+          "THEN:",
+          "100X PULL-UP +",
+          "30X GETUP @ 25# KB +",
+          "100X\u00a0PUSH-UP +",
+          "30X GET-UP @\u00a025# KB +",
+          "100X ATOMIC\u00a0SIT-UP +",
+          "30X\u00a0GET-UP @ 25# KB +",
+          "100X AIR SQUAT +",
+          "30X\u00a0GET-UP @ 25# KB",
+          "THEN:",
+          "COOL DOWN"
+        ]
+      },
+      {
+        "day": 11,
+        "content": [
+          "WORKOUT:",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 12,
+        "content": [
+          "WORKOUT:",
+          "2X5 WALL SQUAT",
+          "2X10 SQUAT",
+          "2X5 GOBLET SQUAT",
+          "THEN:",
+          "10X CLEAN HI-PULL @ 70%\u00a01RM +",
+          "3:00 MIN ROW @\u00a0>850M PACE + 90SEC\u00a0REST",
+          "THREE ROUNDS",
+          "5 MINUTE\u00a0INTERMISSION (INCLUDING\u00a03RD-90SEC REST PERIOD\u00a0ABOVE)",
+          "THEN:",
+          "10X FRONT SQUAT @60% 1RM + 3:00 MIN\u00a0STEP UP AND OVER + 90SEC REST",
+          "THREE\u00a0ROUNDS",
+          "5 MINUTE\u00a0INTERMISSION (INCLUDING\u00a03RD-90SEC REST PERIOD\u00a0ABOVE)",
+          "THEN:",
+          "300SEC FLR ON RING"
+        ]
+      },
+      {
+        "day": 13,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 14,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 15,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY\u00a0PACE",
+          "THEN:",
+          "3X20M LUNGE",
+          "3X20M OH LUNGE @ 45#\u00a0BB",
+          "THEN:",
+          "3X20 SHOULDER DISLOCATES",
+          "3X10 GOBLET SQUAT @\u00a053#",
+          "THEN:",
+          "5X4 SLDL @ 165-185#",
+          "THEN:",
+          "WORK UP TO HEAVY OHS",
+          "THEN:",
+          "5X3 OHS @ 80% 1RM",
+          "(USE BETWEEN 30# & 50#\u00a0DUMBBELLS IF YOU ARE IN A\u00a0FACILITY THAT YOU CANNOT\u00a0DROP WEIGHT IN)",
+          "REST 3-4 MINUTES\u00a0BETWEEN SETS",
+          "THEN:",
+          "4X (20SEC WORK/10SEC\u00a0REST) ROW @ >110M\u00a0PACE PER INTERVAL",
+          "COMPLETE 3 SETS, REST 3\u00a0MINUTES BETWEEN EACH SET",
+          "THEN:",
+          "COOL DOWN"
+        ]
+      },
+      {
+        "day": 16,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY\u00a0PACE",
+          "THEN:",
+          "15X (30SEC WORK/90SEC\u00a0ACTIVE REST) ROW",
+          "START @ 150M, PLAYER\u00a0MUST GET +1M EVERY\u00a0ROUND",
+          "THEN:",
+          "10 MINUTE ROW @ EASY\u00a0PACE"
+        ]
+      },
+      {
+        "day": 17,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY\u00a0PACE",
+          "THEN:",
+          "SIX-WAY BB COMPLEX:",
+          "6X DEADLIFT +\u00a06X BENT-OVER ROW (BACK PARALLEL TO FLOOR) +\u00a06X HANG CLEAN +",
+          "6X FRONT SQUAT +\u00a06X PUSH PRESS +\u00a06X BACK SQUAT +\u00a06X PUSH-UP",
+          "DO THESE ALL IN A ROW WITHOUT LETTING GO OF THE BAR.",
+          "REST 1-2 MINUTES. DO 3-4 SETS. INCREASE WEIGHT ON BAR WITH EACH SERIES, I.E. 75#-85#-95#-105#",
+          "THEN:",
+          "DL @ 115% BW +",
+          "PULLUP +",
+          "RING PUSH-UP",
+          "10-9-8-7-6-5-4-3-2-1 REPS OF\u00a0EACH",
+          "THEN:",
+          "20 MINUTE ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 18,
+        "content": [
+          "WORKOUT:",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 19,
+        "content": [
+          "WORKOUT:",
+          "2X5 WALL SQUAT",
+          "2X10 SQUAT",
+          "2X5 GOBLET SQUAT",
+          "THEN:",
+          "10X CLEAN HI-PULL @ 70%\u00a01RM +",
+          "4:00 MIN ROW @\u00a0>1050M PACE + 60SEC\u00a0REST",
+          "THREE ROUNDS",
+          "5 MINUTE\u00a0INTERMISSION (INCLUDING\u00a03RD-90SEC REST PERIOD\u00a0ABOVE)",
+          "THEN:",
+          "10X FRONT SQUAT @60% 1RM + 4:00 MIN\u00a0STEP UP AND OVER + 60SEC REST",
+          "THREE\u00a0ROUNDS",
+          "5 MINUTE\u00a0INTERMISSION (INCLUDING\u00a03RD-90SEC REST PERIOD\u00a0ABOVE)",
+          "THEN:",
+          "300SEC FLR ON RING"
+        ]
+      },
+      {
+        "day": 20,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 21,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 22,
+        "content": [
+          "WORKOUT:",
+          "10 MIN ROW @ EASY\u00a0PACE",
+          "THEN:",
+          "WORK UP TO 90% DEADLIFT\u00a01RM",
+          "THEN:",
+          "3X5 DL @ 50% 1RM",
+          "3X4 DL @ 60% 1RM,",
+          "3X3 DL @ 70% 1RM,",
+          "3X2 DL @ 80% 1RM,",
+          "6X1 DL @ 90% 1RM",
+          "THEN:",
+          "FOUR BLOCKS OF 4X (20SEC\u00a0WORK/10SEC REST) ROW\u00a0@ >110M PACE",
+          "REST 2\u00a0MINUTES BETWEEN EACH\u00a0BLOCK",
+          "THEN:",
+          "COOL DOWN"
+        ]
+      },
+      {
+        "day": 23,
+        "content": [
+          "WORKOUT:",
+          "10 MINUTE ROW @ EASY PACE",
+          "THEN:",
+          "30X (30SEC WORK/30SEC ACTIVE REST) ROW @ >150M PACE",
+          "THEN:",
+          "10 MINUTE ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 24,
+        "content": [
+          "WORKOUT:",
+          "10 MIN ROW @ EASY\u00a0PACE",
+          "THEN:",
+          "WORK UP TO HEAVY FRONT\u00a0SQUAT",
+          "THEN:",
+          "10X2 FRONT SQUAT @ 80-\u00a085% 1RM.",
+          "EACH SET\u00a0FOLLOWED IMMEDIATELY BY\u00a04X BOX JUMP @ 30-45\u201d\u00a0BOX.",
+          "REST 3 MINUTES BETWEEN\u00a0SETS.",
+          "THEN:",
+          "\u201cTHOSE BURPEES SUCK\u201d:",
+          "10X PULL-UP +",
+          "20X KB SWING @ 53# +",
+          "30X BOX JUMP @ 24\u201d +",
+          "40X PUSH-UP +",
+          "50X SIT-UP +",
+          "60X BURPEE +",
+          "10X PULL-UP",
+          "THEN:",
+          "COOL DOWN"
+        ]
+      },
+      {
+        "day": 25,
+        "content": [
+          "WORKOUT:",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 26,
+        "content": [
+          "WORKOUT:",
+          "2X5 WALL SQUAT",
+          "2X10 SQUAT",
+          "2X5 GOBLET SQUAT",
+          "THEN:",
+          "10X CLEAN HI-PULL @ 70% 1RM + 2:00 MIN ROW @ >550M PACE +",
+          "2:00 MIN REST",
+          "THREE ROUNDS",
+          "5MIN INTERMISSION (INCLUDING 3RD-2MIN REST PERIOD ABOVE)",
+          "THEN:",
+          "10X FRONT SQUAT @ 60% 1RM + 2:00 MIN BURPEE/BROAD JUMP",
+          "2:00 MIN REST",
+          "THREE ROUNDS",
+          "5MIN INTERMISSION (INCLUDING 2MIN REST ABOVE)",
+          "THEN:",
+          "5X (1-6) PULL-UP LADDER"
+        ]
+      },
+      {
+        "day": 27,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 28,
+        "content": [
+          "REST",
+          "OR",
+          "60 MINUTE RUN, BIKE, SWIM, OR ROW @ EASY PACE"
+        ]
+      },
+      {
+        "day": 29,
+        "content": []
+      }
+    ]
+  }
+}
